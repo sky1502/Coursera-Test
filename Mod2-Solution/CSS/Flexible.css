@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.Top {
+    font-weight: bold;
+    font-family: 'Lucida Grande';
+    height: 7%;
+    width: auto;
+    margin: 2% 2% 2% 2%;
+    color: black;
+}
+
+.SectionName {
+    float: right;
+    padding: 2.5% 4% 2.5% 4%;
+    width: auto;
+    color: black;
+    border: 1px solid black;
+}
+
+.S1 {
+    background-color: darkred;
+}
+
+.S2 {
+    background-color: firebrick;
+}
+
+.S3 {
+    background-color: crimson;
+}
+
+#SN {
+    font-weight: bold;
+    font-family: 'Lucida Grande';
+    text-align: Center;
+    font-size: 40px;
+}
+
+#Text {
+    padding: 2% 4% 2% 4%;
+    font-family: 'Lucida Grande';
+    height: auto;
+    width: auto;
+    margin: 0% 2% 0% 2%;
+    text-align: justify;
+    font-size: 20px;
+    clear: right;
+}
+
+@media (min-width: 992px) {
+    .col-lg-4 {
+        background-color: grey;
+        border: 1px solid black;
+        float: left;
+        height: auto;
+        width: 31.33%;
+        margin: 0% 1% 2% 1%;
+        overflow: auto;
+    }
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+    .col-md-6 {
+        background-color: grey;
+        border: 1px solid black;
+        float: left;
+        height: auto;
+        overflow: auto;
+        width: 48%;
+        margin: 0% 1% 2% 1%;
+    }
+    .col-md-12 {
+        background-color: grey;
+        border: 1px solid black;
+        float: left;
+        height: auto;
+        overflow: auto;
+        width: 98%;
+        margin: 0% 1% 2% 1%;
+    }
+}
+
+@media (max-width: 767px) {
+    .col-sm-12 {
+        background-color: grey;
+        border: 1px solid black;
+        height: auto;
+        overflow: auto;
+        width: 98%;
+        margin: 0% 1% 2% 1%;
+    }
+}
