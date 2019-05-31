@@ -1,0 +1,25 @@
+SITE PLAN
+
+1. DISPLAY
+	Title
+	Pics
+	Blog
+		*INSERT A DROP DOWN MENU TO HAVE A LOGOUT OPTION TO CRASH THE SITE
+2. HOME
+	Title
+	Interactive menu
+3ABOUT
+	Title
+	About.me
+4CONTACTS
+	Instagram
+	Twitter
+	Facebook
+	About.me
+	Wordpress
+* SITE ADVISOR
+	5. types
+	6. computer
+	7. science
+8. SHOPPING MART
+9. FOOD FOR MIND
