@@ -57,7 +57,7 @@
         border: 1px solid black;
         float: left;
         height: auto;
-        width: 31.33%;
+        width: 29.33%;
         margin: 2%;
     }
 }
@@ -68,7 +68,7 @@
         border: 1px solid black;
         float: left;
         height: auto;
-        width: 48%;
+        width: 46%;
         margin: 2%;
     }
     .col-md-12 {
@@ -76,7 +76,7 @@
         border: 1px solid black;
         float: left;
         height: auto;
-        width: 98%;
+        width: 96%;
         margin: 2%;
     }
 }
@@ -86,7 +86,7 @@
         background-color: grey;
         border: 1px solid black;
         height: auto;
-        width: 94%;
+        width: 92%;
         margin: 2% 4% 2% 4%;
     }
 }
