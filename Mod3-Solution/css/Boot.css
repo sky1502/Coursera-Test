@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium';
+}
+
+p.menu,
+p.heading {
+    font-size: 35px;
+}
+
+.container div {
+    background-color: grey;
+    border: 1px solid black;
+    font-size: 25px;
+    padding: 2% !important;
+    margin: 1% 0 1% 0;
+}
+
+li {
+    background-color: white;
+    font-size: 20px;
+    border-bottom: 1px solid black;
+}
+
+a.navbar-brand {
+    font-size: 40px;
+}
+
+nav {
+    padding: 0 !important;
+}
+
+.navbar-brand {
+    margin-left: 4%;
+}
+
+.navbar-toggler {
+    margin-right: 2%;
+}
+
+.navbar {
+    background-color: grey;
+    border: 1px solid black;
+}
