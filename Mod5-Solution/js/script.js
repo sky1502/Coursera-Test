@@ -113,9 +113,9 @@ $(function() { // Same as document.addEventListener("DOMContentLoaded"...
                 // $dc.loadMenuItems('L')
                 // Hint: you need to surround the chosen category short name with something before inserting
                 // it into the home html snippet.
-                html = homeHtml;
-                html = "" + insertProperty(html, "randomCategoryShortName", chosenCategoryShortName);
-                var homeHtmlToInsertIntoMainPage = "" + html;
+                htmll = homeHtml;
+                htmll = "" + insertProperty(htmll, "randomCategoryShortName", chosenCategoryShortName);
+                var homeHtmlToInsertIntoMainPage = "" + htmll;
 
 
                 // TODO: STEP 4: Insert the the produced HTML in STEP 3 into the main page
